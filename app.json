@@ -29,6 +29,8 @@
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
-    }
+    },
+    "description": "An Android UI Clone Of Twitter Build In React Native And Expo !!",
+    "githubUrl": "https://github.com/prajvalrasik/Twitter-Android-UI-Clone"
   }
 }
